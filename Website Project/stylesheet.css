@@ -39,3 +39,18 @@ nav a:hover
 	{
 		background-color:black;
 	}
+aside
+	{
+		width:280px;
+		float:right;
+		background-color:tan;
+		text-align:centre;
+		font-weight:bold;
+		padding:20px;
+		margin-left:20px;
+	}
+.photo-left
+	{
+		float:left;
+		margin-right:20px;
+	}
