@@ -54,3 +54,8 @@ aside
 		float:left;
 		margin-right:20px;
 	}
+.photo-right
+	{
+		float:right;
+		margin-left:20px;
+	}
