@@ -1,6 +1,8 @@
 body
 	{
 		font-family: 'Open Sans', sans-serif;
+		magrin: 0 auto;
+		width:960px;
 	}
 h1,h2,h3
 	{
