@@ -37,7 +37,7 @@ nav a:link, nav a:visited
 		display:block;
 		width:160px;
 		text-align:centre;
-		padding:10px 0;
+		padding: 10px 20px;
 	}
 nav a:hover
 	{
