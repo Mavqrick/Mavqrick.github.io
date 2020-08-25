@@ -36,7 +36,7 @@ nav a:link, nav a:visited
 		color:white;
 		display:block;
 		width:160px;
-		text-align:centre;
+		text-align:center;
 		padding: 10px 20px;
 	}
 nav a:hover
@@ -48,7 +48,7 @@ aside
 		width:280px;
 		float:right;
 		background-color:tan;
-		text-align:centre;
+		text-align:center;
 		font-weight:bold;
 		padding:20px;
 		margin-left:20px;
